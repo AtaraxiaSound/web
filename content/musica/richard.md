@@ -1,7 +1,6 @@
 +++
-title = "dumiasinga"
+title = "Richard Wagner"
 description = "aaaa"
 date = "2023-04-02"
 +++
-# aa
-eeee
+analisis de richardo
